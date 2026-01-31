@@ -187,7 +187,7 @@ Want to make it extra special with your own romantic song? Follow these steps to
 music: {
     enabled: true,
     autoplay: true,
-    musicUrl: "YOUR_CLOUDINARY_URL_HERE", // Paste your URL here
+    musicUrl: "https://res.cloudinary.com/dtpmsfpkn/video/upload/v1769892744/ghita-adriano-rebecca-mea-2020-manele-noi-2020-cele-mai-noi-manele-2020_nqXI1rN7_l9p1wa.mp3", // Paste your URL here
     startText: "🎵 Play Music",
     stopText: "🔇 Stop Music",
     volume: 0.5
