@@ -86,8 +86,8 @@ Note: Make sure you're logged into your GitHub account. If you don't have one, y
 Here's what you can customize in `config.js`:
 ```javascript
 // Basic Information
-valentineName: "Jade"                    // Your Valentine's name
-pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
+valentineName: "Rebeca"                    // Your Valentine's name
+pageTitle: "Vrei sa fi valentina mea? 💝" // Browser tab title
 
 // Floating Background Elements
 floatingEmojis: {
@@ -98,34 +98,34 @@ floatingEmojis: {
 // Questions and Buttons
 questions: {
     first: {
-        text: "Do you like me?",                   // First question
-        yesBtn: "Yes",                             // Yes button text
-        noBtn: "No",                               // No button text
-        secretAnswer: "I don't like you, I love you! ❤️"  // Hidden message
+        text: "Ma mai iubesti?",                   // First question
+        yesBtn: "Da",                             // Yes button text
+        noBtn: "Nu",                               // No button text
+        secretAnswer: "Nu-mi place de tine, TE IUBEEEESCCCCCCC! ❤️"  // Hidden message
     },
     second: {
-        text: "How much do you love me?",          // Second question
-        startText: "This much!",                   // Text before percentage
-        nextBtn: "Next ❤️"                         // Next button text
+        text: "Cat de mult ma iubesti?",          // Second question
+        startText: "Atat de mult!",                   // Text before percentage
+        nextBtn: "Apasa aici ❤️"                         // Next button text
     },
     third: {
-        text: "Will you be my Valentine...?",      // Final question
-        yesBtn: "Yes!",                            // Yes button text
-        noBtn: "No"                                // No button text
+        text: "Deeeeci, vrei sa fi valentina mea...?",      // Final question
+        yesBtn: "Da!",                            // Yes button text
+        noBtn: "Nu"                                // No button text
     }
 }
 
 // Love Meter Messages
 loveMessages: {
-    extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows above 5000%
-    high: "To infinity and beyond! 🚀💝",              // Shows above 1000%
-    normal: "And beyond! 🥰"                           // Shows above 100%
+    extreme: "WOOOOW ATAT DE MULT MA IUBESTI?? 🥰🚀💝",  // Shows above 5000%
+    high: "YEEEEEYYYYY! 🚀💝",              // Shows above 1000%
+    normal: "Oho chiar e mult! 🥰"                           // Shows above 100%
 }
 
 // Final Celebration
 celebration: {
-    title: "Yay! I'm the luckiest person...",     // Celebration title
-    message: "Now come get your gift...",          // Celebration message
+    title: "SUNT CEL MAI NOROCOS OM DIN LUME...",     // Celebration title
+    message: "Acum vino sa-ti iei cadoul...",          // Celebration message
     emojis: "🎁💖🤗💝💋❤️💕"                        // Celebration emojis
 }
 
@@ -150,7 +150,7 @@ animations: {
 music: {
     enabled: true, // Music feature is enabled
     autoplay: true, // Try to autoplay (note: some browsers may block this)
-    musicUrl: "YOUR_CLOUDINARY_URL_HERE", // Paste your music URL here
+    musicUrl: "https://res.cloudinary.com/dtpmsfpkn/video/upload/v1769892744/ghita-adriano-rebecca-mea-2020-manele-noi-2020-cele-mai-noi-manele-2020_nqXI1rN7_l9p1wa.mp3", // Paste your music URL here
     startText: "🎵 Play Music", // Button text to start music
     stopText: "🔇 Stop Music", // Button text to stop music
     volume: 0.5 // Volume level (0.0 to 1.0)
